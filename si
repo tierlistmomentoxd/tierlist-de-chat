@@ -1,0 +1,90 @@
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Tier List Actrices</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      padding: 20px;
+    }
+    .tier {
+      margin-bottom: 20px;
+    }
+    .tier h2 {
+      margin: 0;
+      padding: 10px;
+      color: white;
+    }
+    .tier-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding: 10px;
+      background-color: white;
+      border: 1px solid #ccc;
+    }
+    .tier-item {
+      background-color: #eee;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+    .S { background-color: #e6005c; }
+    .A { background-color: #ff7f0e; }
+    .B { background-color: #ffd700; }
+    .C { background-color: #32cd32; }
+    .D { background-color: #1e90ff; }
+  </style>
+</head>
+<body>
+
+  <h1>Tier List de Actrices Reconocidas</h1>
+
+  <div class="tier">
+    <h2 class="S">Tier S</h2>
+    <div class="tier-list">
+      <div class="tier-item">Riley Reid</div>
+      <div class="tier-item">Lana Rhoades</div>
+      <div class="tier-item">Mia Malkova</div>
+    </div>
+  </div>
+
+  <div class="tier">
+    <h2 class="A">Tier A</h2>
+    <div class="tier-list">
+      <div class="tier-item">Abella Danger</div>
+      <div class="tier-item">Angela White</div>
+      <div class="tier-item">Adriana Chechik</div>
+    </div>
+  </div>
+
+  <div class="tier">
+    <h2 class="B">Tier B</h2>
+    <div class="tier-list">
+      <div class="tier-item">Emily Willis</div>
+      <div class="tier-item">Brandi Love</div>
+      <div class="tier-item">Nicole Aniston</div>
+    </div>
+  </div>
+
+  <div class="tier">
+    <h2 class="C">Tier C</h2>
+    <div class="tier-list">
+      <div class="tier-item">Elsa Jean</div>
+      <div class="tier-item">Autumn Falls</div>
+      <div class="tier-item">Gina Valentina</div>
+    </div>
+  </div>
+
+  <div class="tier">
+    <h2 class="D">Tier D</h2>
+    <div class="tier-list">
+      <div class="tier-item">Violet Myers</div>
+      <div class="tier-item">Lexi Belle</div>
+      <div class="tier-item">Tori Black</div>
+    </div>
+  </div>
+
+</body>
+</html>
